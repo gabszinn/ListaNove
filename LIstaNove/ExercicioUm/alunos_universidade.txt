@@ -1,0 +1,10 @@
+Aluno: Gabriel  Nota Final: 100.0
+
+Aluno: Daniel  Nota Final: 90.0
+
+Aluno: Lucas  Nota Final: 100.0
+
+Aluno: Ana  Nota Final: 70.0
+
+Aluno: Kaique  Nota Final: 69.0
+

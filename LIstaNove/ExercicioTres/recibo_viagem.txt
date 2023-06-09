@@ -1,0 +1,7 @@
+Recibo de viagem
+Nome: Gabriel
+Idade: 18
+CPF: 12345678900
+Destino: Nova York
+Valor a pagar: $2400,00
+Poltrona: 11

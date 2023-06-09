@@ -1,0 +1,20 @@
+Produto:  farinha  Preço: R$20
+
+Produto:  arroz  Preço: R$25
+
+Produto:  feijao  Preço: R$15
+
+Produto:  goiaba  Preço: R$5
+
+Produto:  banana  Preço: R$10
+
+Produto:  galao de agua  Preço: R$20
+
+Produto:  maizena  Preço: R$6
+
+Produto:  biscoito  Preço: R$4
+
+Produto:  chips  Preço: R$7
+
+Produto:  sabonete  Preço: R$3
+
